@@ -9,6 +9,7 @@ if (!defined('BASEPATH')) {
  * CodeIgniter 3 template extension compatible with HMVC
  * @author Fayaz K <allshore.php44@gmail.com>
  * @package CodeIgniter
+ * @version 1.0
  * @license https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html GPL v2
  * @copyright (c) 2015
  */
